@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/shiftd_logo.png" alt="shiftd logo">
+  <img src="assets/logo.png" alt="shiftd logo" width=150 height = 150>
 </p>
 
 # shiftd
