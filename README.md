@@ -102,7 +102,7 @@ uv run inv test
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=datapoints-np/shiftd&type=Date)](https://star-history.com/#datapoints-np/shiftd&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=datapoints-np/shiftd&type=date&legend=top-left)](https://www.star-history.com/#datapoints-np/shiftd&type=date&legend=top-left)
 
 ## License
 
