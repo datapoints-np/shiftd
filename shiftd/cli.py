@@ -1,4 +1,4 @@
-"""CLI for shiftd. Delegates everything to Engine."""
+"""CLI for shiftd"""
 
 from __future__ import annotations
 

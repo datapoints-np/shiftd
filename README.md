@@ -24,7 +24,7 @@ uv add shiftd
 
 ## Usage
 
-**Terminal (CLI):**
+**CLI usage:**
 
 ```bash
 shiftd convert input.csv output.json
@@ -33,7 +33,7 @@ shiftd batch --to json file1.csv file2.csv output_dir/
 shiftd formats
 ```
 
-**Python library (Engine):**
+**Python Engine:**
 
 ```python
 from shiftd import Engine, TableModel
