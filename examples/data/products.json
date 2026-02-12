@@ -1,0 +1,7 @@
+[
+  {"id": 1, "name": "Espresso Machine", "price": 249.99, "category": "kitchen", "in_stock": true},
+  {"id": 2, "name": "Mechanical Keyboard", "price": 129.50, "category": "tech", "in_stock": true},
+  {"id": 3, "name": "Standing Desk", "price": 599.00, "category": "furniture", "in_stock": false},
+  {"id": 4, "name": "Noise-Cancelling Headphones", "price": 349.99, "category": "tech", "in_stock": true},
+  {"id": 5, "name": "Ergonomic Chair", "price": 450.00, "category": "furniture", "in_stock": true}
+]

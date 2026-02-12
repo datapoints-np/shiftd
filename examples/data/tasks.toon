@@ -1,0 +1,6 @@
+[5]{id,task,status,priority,assignee}:
+1,Setup CI/CD pipeline,done,high,Alice
+2,Write unit tests,in_progress,high,Bob
+3,Update documentation,todo,medium,Charlie
+4,Fix login bug,in_progress,critical,Diana
+5,Deploy to production,todo,high,Eve

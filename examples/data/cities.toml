@@ -1,0 +1,34 @@
+[[row]]
+city = "Roma"
+country = "Italia"
+population = 2873000
+founded = -753
+famous_for = "Colosseo"
+
+[[row]]
+city = "Parigi"
+country = "Francia"
+population = 2161000
+founded = -250
+famous_for = "Tour Eiffel"
+
+[[row]]
+city = "Londra"
+country = "Regno Unito"
+population = 8982000
+founded = 43
+famous_for = "Big Ben"
+
+[[row]]
+city = "Tokyo"
+country = "Giappone"
+population = 13960000
+founded = 1457
+famous_for = "Shibuya Crossing"
+
+[[row]]
+city = "New York"
+country = "Stati Uniti"
+population = 8336000
+founded = 1624
+famous_for = "Statua della Libertà"

@@ -1,0 +1,29 @@
+- title: "Il Nome della Rosa"
+  author: "Umberto Eco"
+  year: 1980
+  genre: "romanzo storico"
+  pages: 512
+
+- title: "1984"
+  author: "George Orwell"
+  year: 1949
+  genre: "distopia"
+  pages: 328
+
+- title: "Il Piccolo Principe"
+  author: "Antoine de Saint-Exupéry"
+  year: 1943
+  genre: "favola"
+  pages: 96
+
+- title: "Cent'anni di solitudine"
+  author: "Gabriel García Márquez"
+  year: 1967
+  genre: "realismo magico"
+  pages: 448
+
+- title: "Norwegian Wood"
+  author: "Haruki Murakami"
+  year: 1987
+  genre: "romanzo"
+  pages: 296

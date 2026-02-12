@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sensors>
+  <sensor>
+    <id>S001</id>
+    <type>temperature</type>
+    <value>22.5</value>
+    <unit>°C</unit>
+    <location>warehouse-A</location>
+  </sensor>
+  <sensor>
+    <id>S002</id>
+    <type>humidity</type>
+    <value>65.3</value>
+    <unit>%</unit>
+    <location>warehouse-A</location>
+  </sensor>
+  <sensor>
+    <id>S003</id>
+    <type>temperature</type>
+    <value>18.1</value>
+    <unit>°C</unit>
+    <location>warehouse-B</location>
+  </sensor>
+  <sensor>
+    <id>S004</id>
+    <type>pressure</type>
+    <value>1013.25</value>
+    <unit>hPa</unit>
+    <location>outdoor</location>
+  </sensor>
+  <sensor>
+    <id>S005</id>
+    <type>humidity</type>
+    <value>72.0</value>
+    <unit>%</unit>
+    <location>warehouse-B</location>
+  </sensor>
+</sensors>

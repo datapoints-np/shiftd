@@ -1,0 +1,6 @@
+name,age,email,city,role
+Alice,30,alice@example.com,Roma,developer
+Bob,25,bob@example.com,Milano,designer
+Charlie,35,charlie@example.com,Napoli,manager
+Diana,28,diana@example.com,Torino,analyst
+Eve,32,eve@example.com,Firenze,developer
