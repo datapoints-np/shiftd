@@ -5,8 +5,8 @@ Thanks for your interest in contributing to **shiftd**! This guide will help you
 ## Prerequisites
 
 - **Python 3.13+**
-- [**uv**](https://docs.astral.sh/uv/) - fast Python package & project manager
-- [**Ruff**](https://docs.astral.sh/ruff/) - linter and formatter (installed automatically as dev dependency)
+- [**uv**](https://docs.astral.sh/uv/) - package manager
+- [**Ruff**](https://docs.astral.sh/ruff/) - linter
 
 ## Setup
 
@@ -38,7 +38,7 @@ Thanks for your interest in contributing to **shiftd**! This guide will help you
 
 ```bash
 uv run shiftd convert input.csv output.json
-uv run python examples/01_basic_conversion.py
+uv run python examples/basic_conversion.py
 ```
 
 ### Code style - Ruff
@@ -134,7 +134,7 @@ shiftd uses a registry-based plugin system. To add support for a new format:
 
 ## Project structure
 
-```
+```bash
 shiftd/
 ├── shiftd/
 │   ├── __init__.py          # Public API: Engine, TableModel
@@ -175,7 +175,7 @@ shiftd/
 
 ## Commit message convention
 
-We follow a lightweight convention:
+We follow a lightweight convention based on git czg:
 
 | Prefix | Use case |
 |--------|----------|
@@ -185,7 +185,3 @@ We follow a lightweight convention:
 | `refactor:` | Code restructuring (no behavior change) |
 | `test:` | Adding or updating tests |
 | `chore:` | Tooling, CI, dependencies |
-
-## License
-
-By contributing, you agree that your contributions will be licensed under the [MIT License](LICENSE).

@@ -3,6 +3,6 @@ from shiftd import Engine
 engine = Engine()
 
 
-csv_path = "data/users.csv"
+data_path = "data/sensors.xml"
 
-engine.convert(csv_path, "output.xlsx")
+engine.convert(data_path, "output.toon")
